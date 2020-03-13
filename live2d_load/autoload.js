@@ -1,6 +1,6 @@
 // 注意：live2d_path 参数应使用绝对路径
-const live2d_path = "https://cdn.jsdelivr.net/gh/Fog-Forest/live2d@latest/live2d_load/";
-const tips_path = "https://cdn.jsdelivr.net/gh/Fog-Forest/live2d@latest/live2d_load/";
+const live2d_path = "https://cdn.jsdelivr.net/gh/Fog-Forest/live2d@1.0.2/live2d_load/";
+const tips_path = "https://cdn.jsdelivr.net/gh/Fog-Forest/live2d@1.0.2/live2d_load/";
 //const live2d_path = "";
 //const live2d_path = "/live2d-widget/";
 
@@ -30,7 +30,7 @@ function loadExternalResource(url, type) {
 	Promise.all([
 		loadExternalResource(live2d_path + "waifu.min.css", "css"),
 		loadExternalResource(live2d_path + "live2d.min.js", "js"),
-		loadExternalResource(live2d_path + "waifu-tips.min.js", "js")
+		loadExternalResource(live2d_path + "waifu-tips.js", "js")
 	]).then(() => {
 		initWidget({
 			waifuPath: tips_path + "waifu-tips.min.json",
