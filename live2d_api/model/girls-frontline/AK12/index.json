@@ -1,0 +1,26 @@
+{
+	"version":"Sample 1.0.0",
+	"model":"model.moc",
+	"textures":[
+		"texture/texture_00.png"
+	],
+    "layout":{
+        "center_x": 0,
+        "center_y": 0,
+        "width": 2.3
+    },
+    "hit_areas_custom":{
+		"head_x":[-0.33, 0.6],
+		"head_y":[0.19, -0.2],
+		"body_x":[-0.3, -0.25],
+		"body_y":[0.3, -0.9]
+	},
+	"motions":{
+		"idle":[
+			{"file":"ak12_idle.mtn"}
+		],
+		"": [{
+			"file": "ak12_idle.mtn"
+		}]
+	}
+}
