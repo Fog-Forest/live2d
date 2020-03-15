@@ -1,0 +1,254 @@
+{
+	"mouseover": [{
+			"selector": "#waifu #live2d",
+			"text": ["干嘛呢你，人家怪害怕的，把手拿开呀～～", "鼠…鼠标放错地方了吧？", "你要干嘛呀？", "喵喵喵？", "怕怕(ノ≧∇≦)ノ", "嘤嘤嘤", "你再碰我我就跟我家主人说，哼", "我要生气了哦", "老蘑菇，救命啊！"]
+		}, {
+			"selector": ".lower",
+			"text": ["看看菜单里有什么吧？"]
+		}, {
+			"selector": ".searchbox",
+			"text": ["<span style=\"color:red;\">在找什么东西呢，需要帮忙吗~~</span>"]
+		}, {
+			"selector": "#switch_live2d",
+			"text": ["你是不是不爱人家了呀，呜呜呜～", "要见见我的姐姐嘛？", "想要看我妹妹嘛？", "要切换看板娘吗？"]
+		}, {
+			"selector": "#switch_model",
+			"text": ["喜欢换装 PLAY 吗？", "这次要扮演什么呢？", "变装！", "让我们看看接下来会发生什么！"]
+		}, {
+			"selector": ".header-tou a",
+			"text": ["主人的头像漂亮吧 ヾ(◍°∇°◍)ﾉﾞ", "喜欢别忘了加收藏、友链哦！", "旋转！", "让我们看看接下来会发生什么！"]
+		}, {
+			"selector": "#save_pic",
+			"text": ["你要给我拍照呀？一二三～茄子～", "要不，我们来合影吧！", "保持微笑就好了～"]
+		}, {
+			"selector": ".header-user-avatar",
+			"text": ["登录了吗么？", "头像不错呦～"]
+		}, {
+			"selector": "#show_model",
+			"text": ["到了要说再见的时候了吗？", "呜呜 QAQ 后会有期……", "不要抛弃我呀……", "我们，还能再见面吗……", "哼，你会后悔的！"]
+		}, {
+			"selector": ".site-branding",
+			"text": ["点击前往首页，想回到上一页可以使用浏览器的后退功能哦。", "点它就可以回到首页啦！", "回首页看看吧。"]
+		}, {
+			"selector": ".menu-item-about",
+			"text": ["你想知道我家主人是谁吗？", "这里有一些关于我家主人的秘密哦，要不要看看呢？", "发现主人出没地点！"]
+		}, {
+			"selector": ".menu-item-tags",
+			"text": ["点击就可以看文章的标签啦！", "点击来查看所有标签哦。", "快看看这里都有什么呢！"]
+		}, {
+			"selector": ".menu-item-categories",
+			"text": ["文章都分类好啦～", "点击来查看文章分类哦。", "快看看这里都有什么呢！"]
+		}, {
+			"selector": ".header-info",
+			"text": ["这是主人留给大家的！"]
+		}, {
+			"selector": ".menu-item-friends",
+			"text": ["这是我的朋友们哦ヾ(◍°∇°◍)ﾉﾞ", "要去大佬们的家看看吗？", "要去拜访一下我的朋友们吗？"]
+		}, {
+			"selector": "#bg-pre",
+			"text": ["前一张背景"]
+		}, {
+			"selector": ".qq",
+			"text": ["要找主人吗～", "要不要点进去看看？"]
+		}, {
+			"selector": "#bg-next",
+			"text": ["后一张背景"]
+		}, {
+			"selector": ".post-lincenses",
+			"text": ["要记得规范转载哦。", "所有文章均采用 CC BY-NC-SA 4.0 许可协议～", "转载前要先注意下文章的版权协议呢。"]
+		}, {
+			"selector": ".headertop-down",
+			"text": ["点击向下滚动哦！", "看看正文吧!"]
+		}, {
+			"selector": "#video-btn",
+			"text": ["想看视频吗？可以先从左下角关闭背景音乐呢~"]
+		}, {
+			"selector": "#video-stu",
+			"text": ["想暂停吗？"]
+		}, {
+			"selector": "#video-add",
+			"text": ["重新播放哦~"]
+		}, {
+			"selector": "c-player a.play-icon",
+			"text": ["想要听点音乐吗"]
+		}, {
+			"selector": "c-player div.time",
+			"text": ["在这里可以调整<span style=\"color:#E06020;\">播放进度</span>呢"]
+		}, {
+			"selector": "c-player div.volume",
+			"text": ["在这里可以调整<span style=\"color:#E06020;\">音量</span>呢"]
+		}, {
+			"selector": "c-player div.list-button",
+			"text": ["<span style=\"color:#E06020;\">播放列表</span>里都有什么呢"]
+		}, {
+			"selector": "c-player div.lyric-button",
+			"text": ["有<span style=\"color:#E06020;\">歌词</span>的话就能跟着一起唱呢"]
+		}, {
+			"selector": "#white-bg",
+			"text": ["默认是纯洁的白色~~"]
+		}, {
+			"selector": "#gribs-bg",
+			"text": ["格子控！"]
+		}, {
+			"selector": "#sakura-bg",
+			"text": ["樱花飞舞~"]
+		}, {
+			"selector": "#KAdots-bg",
+			"text": ["小点点~"]
+		}, {
+			"selector": ".notice",
+			"text": ["这是公告呢！"]
+		}, {
+			"selector": ".changeSkin-gear",
+			"text": ["换个主题吧！", "有夜间模式哦"]
+		}, {
+			"selector": "a[href^='mailto']",
+			"text": ["邮件我会告诉主人及时回复的！", "点击就可以发送邮件啦～"]
+		}, {
+			"selector": "a[href^='/tag/']",
+			"text": ["要去看看 <span>{text}</span> 标签么？", "点它可以查看此标签下的所有文章哟！"]
+		}, {
+			"selector": "a[href^='/categories/']",
+			"text": ["要去看看 <span>{text}</span> 分类么？", "点它可以查看此分类下的所有文章哟！"]
+		}, {
+			"selector": ".post-title-link",
+			"text": ["要看看 <span>{text}</span> 这篇文章吗？"]
+		}, {
+			"selector": ".profile",
+			"text": ["又见主人了。"]
+		}, {
+			"selector": "a[href^='http']",
+			"text": ["要去看看 「 <span>{text}</span> 」么？？"]
+		}, {
+			"selector": "a[href^='http'] h3",
+			"text": ["要去看看 「 <span>{text}</span> 」么？？"]
+		}, {
+			"selector": ".cd-fade-out",
+			"text": ["点它就可以回到顶部啦！", "又回到最初的起点～", "要回到开始的地方么？"]
+		}, {
+			"selector": ".reward-open",
+			"text": ["我是不是棒棒哒～快给我点赞吧！", "要打赏我嘛？好期待啊～", "主人最近在吃土呢，很辛苦的样子，给他一些钱钱吧～"]
+		}, {
+			"selector": ".wechat-code",
+			"text": ["这是主任的微信二维码～"]
+		}, {
+			"selector": ".alipay-code",
+			"text": ["这是主任的支付宝哦！"]
+		}, {
+			"selector": ".post-like",
+			"text": ["我是不是棒棒哒～快给我点赞吧！"]
+		}, {
+			"selector": ".post-share",
+			"text": ["好东西要让更多人知道才行哦。", "觉得文章有帮助的话，可以分享给更多需要的朋友呢。"]
+		},
+		{
+			"selector": ".need-share-button_wechat",
+			"text": ["分享到微信吧！"]
+		}, {
+			"selector": ".need-share-button_douban",
+			"text": ["分享到豆瓣好像也不错！"]
+		}, {
+			"selector": ".need-share-button_qqzone",
+			"text": ["QQ 空间，一键转发，耶～"]
+		}, {
+			"selector": ".need-share-button_twitter",
+			"text": ["Twitter？好像是不存在的东西？"]
+		}, {
+			"selector": ".need-share-button_facebook",
+			"text": ["emmm…FB 好像也是不存在的东西？"]
+		}, {
+			"selector": ".post-nav-item a[rel='next']",
+			"text": ["来看看下一篇文章吧。", "点它可以看下一篇文章哦！", "要翻到下一篇文章吗？"]
+		}, {
+			"selector": ".post-nav-item a[rel='prev']",
+			"text": ["来看看上一篇文章吧。", "点它可以看上一篇文章哦！", "要翻到上一篇文章吗？"]
+		}, {
+			"selector": ".extend.next",
+			"text": ["去下一页看看吧。", "点它可以前进哦！", "要翻到下一页吗？"]
+		}, {
+			"selector": ".extend.prev",
+			"text": ["去上一页看看吧。", "点它可以后退哦！", "要翻到上一页吗？"]
+		}, {
+			"selector": "input.vnick",
+			"text": ["该怎么称呼你呢？", "留下你的尊姓大名！"]
+		}, {
+			"selector": ".vmail",
+			"text": ["留下你的邮箱，不然就是无头像人士了！", "为了方便通知你最新消息，一定要留下邮箱！"]
+		}, {
+			"selector": ".vlink",
+			"text": ["快快告诉我你的家在哪里，好让我去参观参观！"]
+		}, {
+			"selector": ".comment-textarea",
+			"text": ["想要去评论些什么吗？", "要说点什么吗？"]
+		}, {
+			"selector": ".comment-textarea",
+			"text": ["你会不会熟练使用 Markdown 呀？", "使用 Markdown 让评论更美观吧～"]
+		}, {
+			"selector": ".emotion-toggle-off",
+			"text": ["要插入一个萌萌哒的表情吗？", "要来一发表情吗？"]
+		},
+		{
+			"selector": ".emotion-toggle-on",
+			"text": ["要插入一个萌萌哒的表情吗？", "要来一发表情吗？"]
+		}, {
+			"selector": ".vpreview-btn",
+			"text": ["要预览一下你的发言吗？", "快看看你的评论有多少负熵！"]
+		}, {
+			"selector": ".form-submit",
+			"text": ["评论没有审核，要对自己的发言负责哦～", "要提交了吗，请耐心等待回复哦～"]
+		}, {
+			"selector": ".vcontent",
+			"text": ["哇，快看看这个精彩评论！", "如果有疑问，请尽快留言哦～"]
+		}
+	],
+	"click": [{
+		"selector": "#waifu #live2d",
+		"text": ["萝莉控是什么呀？", "你看到我的小熊了吗？", "再碰的话我就告诉老蘑菇！！！", "110 吗，这里有个怪蜀黍一直在戳我⌇●﹏●⌇", "干嘛动我呀！小心我咬你！", "别碰我，有什么好碰的！"]
+	}, {
+		"selector": ".veditor",
+		"text": ["要吐槽些什么呢？", "一定要认真填写喵～", "有什么想说的吗？"]
+	}, {
+		"selector": ".vsubmit",
+		"text": ["输入验证码就可以提交评论啦～"]
+	}],
+	"seasons": [{
+		"date": "01/01",
+		"text": "<span>元旦</span>了呢，新的一年又开始了，今年是{year}年～"
+	}, {
+		"date": "02/14",
+		"text": "又是一年<span>情人节</span>，{year}年找到对象了嘛～"
+	}, {
+		"date": "03/08",
+		"text": "今天是<span>国际妇女节</span>！"
+	}, {
+		"date": "03/12",
+		"text": "今天是<span>植树节</span>，要保护环境呀！"
+	}, {
+		"date": "04/01",
+		"text": "悄悄告诉你一个秘密～<span>今天是愚人节，不要被骗了哦～</span>"
+	}, {
+		"date": "05/01",
+		"text": "今天是<span>五一劳动节</span>，计划好假期去哪里了吗～"
+	}, {
+		"date": "06/01",
+		"text": "<span>儿童节</span>了呢，快活的时光总是短暂，要是永远长不大该多好啊…"
+	}, {
+		"date": "06/05",
+		"text": "今天是我家主人<span>生日</span>呢，有没有想跟他说的呀？快去留言板说说吧~~~"
+	}, {
+		"date": "09/03",
+		"text": "<span>中国人民抗日战争胜利纪念日</span>，铭记历史、缅怀先烈、珍爱和平、开创未来。"
+	}, {
+		"date": "09/10",
+		"text": "<span>教师节</span>，在学校要给老师问声好呀～"
+	}, {
+		"date": "10/01",
+		"text": "<span>国庆节</span>到了，为祖国母亲庆生！"
+	}, {
+		"date": "11/05-11/12",
+		"text": "今年的<span>双十一</span>是和谁一起过的呢～"
+	}, {
+		"date": "12/20-12/31",
+		"text": "这几天是<span>圣诞节</span>，主人肯定又去剁手买买买了～"
+	}]
+}

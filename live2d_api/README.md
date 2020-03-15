@@ -15,4 +15,4 @@
 原默认API：https://live2d.fghrsh.net/api/
 
 
-我的少女前线API CDN加速地址（暂未开启防盗链，强烈建议使用**完整版**自建）；http://fogforest.cn-sh2.ufileos.com/BLOG/live2d_api/
+我的少女前线API CDN加速地址（暂未开启防盗链，强烈建议使用**完整版**自建）：http://fogforest.cn-sh2.ufileos.com/BLOG/live2d_api/
