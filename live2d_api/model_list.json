@@ -1,7 +1,5 @@
 {
     "models": [
-		"girls-frontline/pkp_1201",
-		"girls-frontline/79type_1402",
 		"girls-frontline/88type_1809",
 		"girls-frontline/95type_3702",
 		"girls-frontline/95type_405",
@@ -37,6 +35,7 @@
 		"girls-frontline/ots14_3001",
 		"girls-frontline/p22_3902",
 		"girls-frontline/pa15_4202",
+		"girls-frontline/pkp_1201",
 		"girls-frontline/px4storm_2801",
 		"girls-frontline/qbu88_3801",
 		"girls-frontline/r3mp_3704",
@@ -51,7 +50,6 @@
 		"girls-frontline/ump9_3404",
 		"girls-frontline/wa2000_306",
 		"girls-frontline/welrod_1401",
-		"girls-frontline-destroy/79type_1402",
 		"girls-frontline-destroy/88type_1809",
 		"girls-frontline-destroy/95type_3702",
 		"girls-frontline-destroy/95type_405",
@@ -98,7 +96,6 @@
 		"girls-frontline-destroy/sat8_3602",
 		"girls-frontline-destroy/sr3mp_4101",
 		"girls-frontline-destroy/tac50_2602",
-		"girls-frontline-destroy/tom_m1928a1",
 		"girls-frontline-destroy/type64-ar_2901",
 		"girls-frontline-destroy/type88_3504",
 		"girls-frontline-destroy/ump45_3403",
