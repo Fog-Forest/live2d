@@ -297,7 +297,7 @@ function initWidget(config, apiPath = "/") {
                 setCookie("live2d", "Show", 7)
         },
         10) : setTimeout(function() {
-                document.body.clientWidth > 860 && ($(".hide-live2d").css("bottom", "185px"), $(".save-live2d, .switch-live2d, .live2d-pio, .live2d-tia").removeClass("hide-live2d-tool")),
+                document.body.clientWidth > 860 && ($(".hide-live2d").css("bottom", "156px"), $(".save-live2d, .switch-live2d, .live2d-pio, .live2d-tia").removeClass("hide-live2d-tool")),
                 $(".hide-live2d .keys").html("Hide"),
 		localStorage.removeItem("waifu-display"),
 				document.getElementById("waifu").style.display = "",

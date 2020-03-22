@@ -444,7 +444,7 @@
 @media(min-width:861px) {
  .hide-live2d {
   background-color:#16a085;
-  bottom:165px;/*185px*/
+  bottom:156px;/*185px*/
   visibility:visible;
   min-height:38.75px
  }
@@ -457,7 +457,7 @@
  .live2d-pio,
  .live2d-tia {
   background-color:#c3a6cb;
-  bottom:109px;/*156px*/
+  bottom:105px;/*156px*/
   visibility:visible;
   min-height:20px
  }
