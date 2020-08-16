@@ -34,7 +34,7 @@ function loadExternalResource(url, type) {
 	]).then(() => {
 		initWidget({
 			waifuPath: tips_path + "waifu-tips.min.json",
-			apiPath: "https://你的域名/live2d_api/",
+			apiPath: "https://cdn.jsdelivr.net/gh/Karensky/cx@1.0.7/live2d_api/",
 			//cdnPath: "https://你的CDN域名/live2d_api/"从本地加载此项不用管
 		});
 	});
