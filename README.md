@@ -5,7 +5,6 @@ Live2D 看板娘（少女前线）
 
 ### 默认
 1. 下载项目代码，将 `live2d_default` 放到你的站点根目录，`waifu-tips.json` 中为触发内容可以修改，最后引用 `autoload.js` 即可，一般放到 `footer.php` 的 `</body>` 标签之前：
-
 ```HTML
 <script src="/live2d_load/autoload.js"></script>
 ```
@@ -16,7 +15,6 @@ Live2D 看板娘（少女前线）
 2. `live2d/model_list.json` 和 `live2d/model` 为加载的模型列表，可以自己精简
 
 3. 然后在你主题的 `footer.php` 文件 `</body>` 标签之前引用即可
-
 ```HTML
 <script src="/live2d_girls/autoload.js"></script>
 ```
