@@ -30,4 +30,5 @@ Json配置(SDK 2)：<http://live2d.pavostudio.com/doc/zh-cn/live2d/model-config/
 
 ### 引用
 [Live2D API](https://github.com/fghrsh/live2d_api)
+
 [Live2D Widget](https://github.com/stevenjoezhang/live2d-widget)
